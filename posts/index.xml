@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Palmer Industries Blog</title>
-    <link>https://palmerindustries.co.uk/posts/</link>
+    <link>https://nicpalmer.github.io/posts/</link>
     <description>Recent content in Posts on Palmer Industries Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 07 May 2018 09:10:25 +0100</lastBuildDate>
     
-	<atom:link href="https://palmerindustries.co.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nicpalmer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Title</title>
-      <link>https://palmerindustries.co.uk/posts/my-first-page/</link>
+      <link>https://nicpalmer.github.io/posts/my-first-page/</link>
       <pubDate>Mon, 07 May 2018 09:10:25 +0100</pubDate>
       
-      <guid>https://palmerindustries.co.uk/posts/my-first-page/</guid>
+      <guid>https://nicpalmer.github.io/posts/my-first-page/</guid>
       <description></description>
     </item>
     
